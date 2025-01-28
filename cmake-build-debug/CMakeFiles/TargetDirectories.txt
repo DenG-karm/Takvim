@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/takvim/cmake-build-debug/CMakeFiles/takvim.dir
+C:/Users/USER/CLionProjects/takvim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/takvim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
